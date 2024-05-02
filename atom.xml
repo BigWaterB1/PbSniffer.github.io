@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://Qian-havepassion.github.io/</id>
+    <title>Gridea</title>
+    <updated>2024-05-02T08:48:57.723Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://Qian-havepassion.github.io/"/>
+    <link rel="self" href="https://Qian-havepassion.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://Qian-havepassion.github.io/images/avatar.png</logo>
+    <icon>https://Qian-havepassion.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[github page + Grigea 配置个人主页]]></title>
+        <id>https://Qian-havepassion.github.io/post/github-page-grigea-pei-zhi-ge-ren-zhu-ye/</id>
+        <link href="https://Qian-havepassion.github.io/post/github-page-grigea-pei-zhi-ge-ren-zhu-ye/">
+        </link>
+        <updated>2024-05-02T08:18:16.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="github-page">github page</h4>
+<ol>
+<li>在github上创建个人仓库<br>
+仓库名为 &quot;(github_username.github.io)&quot;</li>
+<li>在setting中生成token，准备复制到Grigea中</li>
+</ol>
+<h4 id="grigea">Grigea</h4>
+<p>配置Grigea</p>
+]]></content>
+    </entry>
+</feed>
